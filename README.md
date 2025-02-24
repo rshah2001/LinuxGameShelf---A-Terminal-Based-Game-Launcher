@@ -89,4 +89,4 @@ ShelfSteam handles various error scenarios, including:
 
 
 ## Author
-[Rishil Shah]
+Rishil Shah
