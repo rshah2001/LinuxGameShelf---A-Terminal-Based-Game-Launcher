@@ -1,5 +1,3 @@
-//Name: Rishil Shah 
-//NetID: U69116245
 //Description:
 /*
   This program implements a simple version of Steam for the Linux shell called shelf-steam.
